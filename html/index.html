@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/home.css">
+    <link rel="stylesheet" href="../css/header.css">
+    <!-- Enlazar Bootstrap CSS & JS Bundle-->
+    <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <script src="../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" defer></script>
+    <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
+    <title>Boosstrainer</title>
+</head>
+<body>
+
+    <!-- HEADER -->
+    <header class="container-fluid">
+        <div class="container-fluid d-flex justify-content-center">
+            <img src="/img/head.jpg"  alt="boosstrainer-header">
+        </div>
+        <nav class="navbar navbar-expand-lg navbar-dark ">
+            <div class="container-fluid border-bottom">
+              <a class="navbar-brand" href="#">
+                <span class="text-dark fs-5 fw-bold">Home</span>
+              </a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="equipo.html">Equipo</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="#">Contacto</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <main>
+    <!-- CAROUSEL -->
+    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="/img/1.jpg" class="d-block w-100 h" alt="...">
+          </div>
+          <div class="carousel-item">
+            <img src="/img/2.jpg" class="d-block w-100" alt="...">
+          </div>
+          <div class="carousel-item">
+            <img src="/img/3.jpg" class="d-block w-100" alt="...">
+          </div>
+        </div>
+    </div>
+    <!-- Seccion H1 -->
+    <section class="row w-80 mx-auto text-center" id="seccion-h1">
+        <h1 class="p-5 fs-1 border-top border-3 fw-bold">Servicios</h1>
+        <div class="col-sm-3 p-3 border">
+            <h2 class="fs-2 p-2">Grupos Reducidos</h2>
+            <p class="fs-4 p-2">Entrenamiento en grupos reducidos (máximo 8 personas) donde podrás trabajar tu condición física de una manera completa.</p>
+        </div>
+        <div class="col-sm-3 p-3 border">
+            <h2 class="fs-2 p-2">Entrenamiento Personal</h2>
+            <p class="fs-4 p-2">Entrenamiento totalmente individualizado y adaptado a tus necesidades con un entrenador aplicado a tu caso.</p>
+        </div>
+        <div class="col-sm-3 p-3 border">
+            <h2 class="fs-2 p-2">Readaptación</h2>
+            <p class="fs-4 p-2">Si te encuentras con una lesión y necesitas ponerle remedio nuestro servicio de readaptación funcional y deportiva te ayudará a volver mejor que a estado inicial.</p>
+        </div>
+        <div class="col-sm-3 p-3 border">
+            <h2 class="fs-2 p-2">Nutrición</h2>
+            <p class="fs-4 p-2">Te guiamos en el proceso de mejora de tu estado de salud a través de nuestro servicio de nutrición, con el que podrás aprender a tener una relación cordial con la comida y poder mantener un hábito nutricional.</p>
+        </div>
+    </section>
+     <!-- CAROUSEL TESTIMONIOS -->
+     <div id="carouselExampleSlidesOnly" class="carousel slide mx-auto text-center bg-dark p-5" data-bs-ride="carousel">
+        <div class="carousel-inner p-5">
+          <div class="carousel-item active">
+            <p class="fs-3 text-light">Excelentes profesionales,muy pendientes en todo momento</p>
+            <h3 class="fs-3 text-warning">Anónimo</h3>
+          </div>
+          <div class="carousel-item">
+            <p class="fs-3 text-light"> Si estáis pensando comenzar a hacer ejercicio es la mejor elección. Trabajan por grupos reducidos adaptados a tu nivel y enfocados en ejercicios funcionales. Las clases se pasan volando por el dinamismo y el buen ambiente que hay en los equipos.</p>
+            <h3 class="fs-3 text-warning">Anónimo</h3>
+          </div>
+          <div class="carousel-item">
+            <p class="fs-3 text-light">Los profesionales que trabajan allí están formados en ciencias de la actividad física y el deporte y en educación. A mi me dirigía Joel y lo recomiendo totalmente!</p>
+            <h3 class="fs-3 text-warning">Anónimo</h3>
+          </div>
+        </div>
+    </div>
+    </main>
+    <footer class="text-center text-white bg-secondary">
+        <!-- Grid container -->
+        <div class="container pt-4">
+          <!-- Section: Social media -->
+          <section class="mb-4">
+                <!-- Whatsapp -->
+                <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#!" role="button" data-mdb-ripple-color="dark">
+                    <i class="bi bi-whatsapp"></i>
+                </a>
+                <!-- Facebook -->
+                <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#!" role="button" data-mdb-ripple-color="dark">
+                    <i class="bi bi-facebook"></i>
+                </a>
+                <!-- Twitter -->
+                <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#!" role="button" data-mdb-ripple-color="dark">
+                    <i class="bi bi-twitter"></i>
+                </a>
+                <!-- Google -->
+                <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#!" role="button" data-mdb-ripple-color="dark">
+                    <i class="bi bi-google">
+                </i>
+                </a>
+                <!-- Instagram -->
+                <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#!" role="button" data-mdb-ripple-color="dark">
+                    <i class="bi bi-instagram"></i>
+                </a>
+          </section>
+          <!-- Section: Social media -->
+        </div>
+        <!-- Grid container -->
+        <!-- Copyright -->
+        <div class="text-center text-dark p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+          © 2023 Copyright:
+          <a class="text-dark" href="http://boosstrainer.com/">boosstrainer.com</a>
+        </div>
+        <!-- Copyright -->
+      </footer>
+</body>
+</html>
