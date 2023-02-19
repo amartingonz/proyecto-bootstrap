@@ -1,7 +1,6 @@
 {
   "name": "proyecto-bootstrap",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "parcel:desarrollo": "parcel build html/index.html",
@@ -31,5 +30,6 @@
     "parcel": "^2.8.3",
     "parcel-plugin-imagemin": "^4.0.2",
     "sass": "^1.58.0"
-  }
+  },
+  "description": ""
 }
