@@ -1,9 +1,9 @@
 {
   "name": "proyecto-bootstrap",
   "version": "1.0.0",
-  "main": "index.js",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
-    "parcel:desarrollo": "parcel build html/index.html",
+    "parcel:desarrollo": "parcel html/index.html",
     "parcel:produccion": "parcel build html/index.html --public-url './'",
     "limpieza": "rimraf dist .cache .cache-loader",
     "des": "npm-run-all limpieza parcel:desarrollo",
