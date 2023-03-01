@@ -1,9 +1,14 @@
-12738
+12710
 56C:\xampp\htdocs\proyecto-bootstrap\node_modules\argparse133207492630970714 1
 74C:\xampp\htdocs\proyecto-bootstrap\node_modules\source-map-js\CHANGELOG.md133207492637875562 0
 79C:\xampp\htdocs\proyecto-bootstrap\node_modules\caniuse-lite\data\regions\GI.js133207492655874272 0
 59C:\xampp\htdocs\proyecto-bootstrap\node_modules\es-abstract133207492675123081 1
 43C:\xampp\htdocs\proyecto-bootstrap\capturas133221448205132302 1
+60C:\xampp\htdocs\proyecto-bootstrap\node_modules\run-parallel133207492626809549 1
+76C:\xampp\htdocs\proyecto-bootstrap\node_modules\rimraf\dist\cjs\package.json133207492642302537 0
+85C:\xampp\htdocs\proyecto-bootstrap\node_modules\utility-types\dist\utility-types.d.ts133207492639441684 0
+93C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\cloud-download-fill.svg133207492659462049 0
+45C:\xampp\htdocs\proyecto-bootstrap\index.html133221472895079745 0
 49C:\xampp\htdocs\proyecto-bootstrap\.gitattributes133207489843853249 0
 65C:\xampp\htdocs\proyecto-bootstrap\node_modules\@msgpackr-extract133207494234949999 1
 66C:\xampp\htdocs\proyecto-bootstrap\node_modules\yaml\types\omap.js133207492638195398 0
@@ -47,7 +52,7 @@
 59C:\xampp\htdocs\proyecto-bootstrap\node_modules\array-union133207492629291413 1
 83C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\hypnotize.svg133207492669760392 0
 60C:\xampp\htdocs\proyecto-bootstrap\node_modules\archive-type133207492627129407 1
-39C:\xampp\htdocs\proyecto-bootstrap\html133220609495759070 1
+39C:\xampp\htdocs\proyecto-bootstrap\html133221472354707950 1
 74C:\xampp\htdocs\proyecto-bootstrap\node_modules\decompress-targz\readme.md133207492627642399 0
 54C:\xampp\htdocs\proyecto-bootstrap\node_modules\mkdirp133207492629611277 1
 65C:\xampp\htdocs\proyecto-bootstrap\node_modules\is-bigint\LICENSE133207492627615180 0
@@ -65,15 +70,6 @@
 38C:\xampp\htdocs\proyecto-bootstrap\css133221444682296324 1
 61C:\xampp\htdocs\proyecto-bootstrap\node_modules\@parcel\cache133207492637715600 1
 78C:\xampp\htdocs\proyecto-bootstrap\node_modules\process-nextick-args\readme.md133207492627478378 0
-39C:\xampp\htdocs\proyecto-bootstrap\dist133221464468297287 1
-56C:\xampp\htdocs\proyecto-bootstrap\node_modules\svgo\lib133207492647661628 1
-91C:\xampp\htdocs\proyecto-bootstrap\node_modules\bin-check\node_modules\execa\lib\errname.js133207492626462444 0
-77C:\xampp\htdocs\proyecto-bootstrap\node_modules\is-shared-array-buffer\.nycrc133207492625807762 0
-67C:\xampp\htdocs\proyecto-bootstrap\node_modules\path-parse\index.js133207492623802965 0
-52C:\xampp\htdocs\proyecto-bootstrap\node_modules\arch133207492630970714 1
-61C:\xampp\htdocs\proyecto-bootstrap\node_modules\isurl\LICENSE133207492625807762 0
-78C:\xampp\htdocs\proyecto-bootstrap\node_modules\es-abstract\2022\BigInt\add.js133207492643642877 0
-50C:\xampp\htdocs\proyecto-bootstrap\sass\equipo.css133221444500757008 0
 74C:\xampp\htdocs\proyecto-bootstrap\node_modules\make-dir\node_modules\.bin133207492685199994 1
 74C:\xampp\htdocs\proyecto-bootstrap\node_modules\msgpackr\dist\index.min.js133207492637268747 0
 87C:\xampp\htdocs\proyecto-bootstrap\node_modules\caniuse-lite\data\features\css-table.js133207492652774621 0
@@ -111,11 +107,18 @@
 88C:\xampp\htdocs\proyecto-bootstrap\node_modules\es-abstract\2019\IsAccessorDescriptor.js133207492658176246 0
 96C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\sign-intersection-fill.svg133207492677923162 0
 72C:\xampp\htdocs\proyecto-bootstrap\node_modules\rimraf\dist\mjs\index.js133207492637348719 0
-47C:\xampp\htdocs\proyecto-bootstrap\package.json133221464342005006 0
+47C:\xampp\htdocs\proyecto-bootstrap\package.json133221473829055591 0
 82C:\xampp\htdocs\proyecto-bootstrap\node_modules\object-inspect\example\circular.js133207492631850355 0
 58C:\xampp\htdocs\proyecto-bootstrap\node_modules\source-map133207492638642012 1
 75C:\xampp\htdocs\proyecto-bootstrap\node_modules\is-core-module\CHANGELOG.md133207492633917092 0
 39C:\xampp\htdocs\proyecto-bootstrap\sass133221444682296324 1
+91C:\xampp\htdocs\proyecto-bootstrap\node_modules\bin-check\node_modules\execa\lib\errname.js133207492626462444 0
+77C:\xampp\htdocs\proyecto-bootstrap\node_modules\is-shared-array-buffer\.nycrc133207492625807762 0
+67C:\xampp\htdocs\proyecto-bootstrap\node_modules\path-parse\index.js133207492623802965 0
+52C:\xampp\htdocs\proyecto-bootstrap\node_modules\arch133207492630970714 1
+61C:\xampp\htdocs\proyecto-bootstrap\node_modules\isurl\LICENSE133207492625807762 0
+78C:\xampp\htdocs\proyecto-bootstrap\node_modules\es-abstract\2022\BigInt\add.js133207492643642877 0
+50C:\xampp\htdocs\proyecto-bootstrap\sass\equipo.css133221444500757008 0
 97C:\xampp\htdocs\proyecto-bootstrap\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile133207492633677241 0
 74C:\xampp\htdocs\proyecto-bootstrap\node_modules\strnum\.vscode\launch.json133207492627962274 0
 73C:\xampp\htdocs\proyecto-bootstrap\node_modules\side-channel\CHANGELOG.md133207492633837122 0
@@ -355,7 +358,6 @@
 62C:\xampp\htdocs\proyecto-bootstrap\node_modules\util-deprecate133207492630730830 1
 59C:\xampp\htdocs\proyecto-bootstrap\node_modules\bin-version133207492629291413 1
 78C:\xampp\htdocs\proyecto-bootstrap\node_modules\yaml\browser\dist\parse-cst.js133207492639761546 0
-62C:\xampp\htdocs\proyecto-bootstrap\dist\index.ab0485ab.css.map133221464465321047 0
 101C:\xampp\htdocs\proyecto-bootstrap\node_modules\ow\node_modules\type-fest\source\merge-exclusive.d.ts133207492636708986 0
 57C:\xampp\htdocs\proyecto-bootstrap\node_modules\bin-check133207492627049432 1
 65C:\xampp\htdocs\proyecto-bootstrap\node_modules\binary-extensions133207492632250178 1
@@ -1396,7 +1398,6 @@
 77C:\xampp\htdocs\proyecto-bootstrap\node_modules\has-to-string-tag-x\README.md133207492635709011 0
 77C:\xampp\htdocs\proyecto-bootstrap\node_modules\unbox-primitive\test\index.js133207492631450516 0
 76C:\xampp\htdocs\proyecto-bootstrap\node_modules\es-abstract\2022\MakeTime.js133207492663360943 0
-57C:\xampp\htdocs\proyecto-bootstrap\dist\index.74e50795.js133221464467001564 0
 74C:\xampp\htdocs\proyecto-bootstrap\node_modules\picomatch\lib\constants.js133207492624362744 0
 62C:\xampp\htdocs\proyecto-bootstrap\node_modules\normalize-path133207492626889497 1
 68C:\xampp\htdocs\proyecto-bootstrap\node_modules\pngquant-bin\license133207492622504260 0
@@ -1676,7 +1677,6 @@
 97C:\xampp\htdocs\proyecto-bootstrap\node_modules\npm-run-all\lib\create-prefix-transform-stream.js133207492640321362 0
 60C:\xampp\htdocs\proyecto-bootstrap\node_modules\responselike133207492626542413 1
 73C:\xampp\htdocs\proyecto-bootstrap\node_modules\terser\dist\bundle.min.js133207492641865416 0
-60C:\xampp\htdocs\proyecto-bootstrap\node_modules\run-parallel133207492626809549 1
 78C:\xampp\htdocs\proyecto-bootstrap\node_modules\type-fest\source\value-of.d.ts133207492642942277 0
 73C:\xampp\htdocs\proyecto-bootstrap\node_modules\css-select\lib\general.js133207492632877546 0
 60C:\xampp\htdocs\proyecto-bootstrap\node_modules\terser\tools133207492646941859 1
@@ -1999,7 +1999,6 @@
 74C:\xampp\htdocs\proyecto-bootstrap\node_modules\yaml\browser\types\omap.js133207492637875562 0
 73C:\xampp\htdocs\proyecto-bootstrap\node_modules\shell-quote\test\quote.js133207492638035463 0
 73C:\xampp\htdocs\proyecto-bootstrap\node_modules\svgo\plugins\prefixIds.js133207492642942277 0
-63C:\xampp\htdocs\proyecto-bootstrap\dist\equipo.fe98da6b.css.map133221464465311071 0
 87C:\xampp\htdocs\proyecto-bootstrap\node_modules\svgo\plugins\cleanupEnableBackground.js133207492635948905 0
 89C:\xampp\htdocs\proyecto-bootstrap\node_modules\caniuse-lite\data\features\user-timing.js133207492664160656 0
 94C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap\js\dist\util\template-factory.js.map133207492652934566 0
@@ -2297,8 +2296,6 @@
 79C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\virus.svg133207492683520075 0
 86C:\xampp\htdocs\proyecto-bootstrap\node_modules\rimraf\dist\cjs\src\ignore-enoent.d.ts133207492646861908 0
 71C:\xampp\htdocs\proyecto-bootstrap\node_modules\decompress-tar\index.js133207492624042870 0
-76C:\xampp\htdocs\proyecto-bootstrap\node_modules\rimraf\dist\cjs\package.json133207492642302537 0
-85C:\xampp\htdocs\proyecto-bootstrap\node_modules\utility-types\dist\utility-types.d.ts133207492639441684 0
 72C:\xampp\htdocs\proyecto-bootstrap\node_modules\util.promisify\.eslintrc133207492621544658 0
 75C:\xampp\htdocs\proyecto-bootstrap\node_modules\terser\lib\equivalent-to.js133207492643243043 0
 77C:\xampp\htdocs\proyecto-bootstrap\node_modules\npm-run-all\bin\run-s\help.js133207492637875562 0
@@ -2832,6 +2829,7 @@
 65C:\xampp\htdocs\proyecto-bootstrap\node_modules\lmdb\util\when.js133207492650054573 0
 57C:\xampp\htdocs\proyecto-bootstrap\node_modules\svgo\dist133207492645941230 1
 91C:\xampp\htdocs\proyecto-bootstrap\node_modules\caniuse-lite\data\features\link-icon-png.js133207492657856365 0
+56C:\xampp\htdocs\proyecto-bootstrap\node_modules\svgo\lib133207492647661628 1
 84C:\xampp\htdocs\proyecto-bootstrap\node_modules\readable-stream\lib\internal\streams133207492638035463 1
 65C:\xampp\htdocs\proyecto-bootstrap\node_modules\commander\typings133207492634789065 1
 97C:\xampp\htdocs\proyecto-bootstrap\node_modules\@parcel\runtime-js\src\helpers\node\css-loader.js133207492637955605 0
@@ -3291,7 +3289,6 @@
 102C:\xampp\htdocs\proyecto-bootstrap\node_modules\caniuse-lite\data\features\css-file-selector-button.js133207492651055174 0
 80C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\memory.svg133207492671361000 0
 86C:\xampp\htdocs\proyecto-bootstrap\node_modules\es-abstract\2021\AdvanceStringIndex.js133207492644941784 0
-58C:\xampp\htdocs\proyecto-bootstrap\dist\index.c617b0bf.css133221464465131665 0
 85C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\person-lock.svg133207492674080014 0
 78C:\xampp\htdocs\proyecto-bootstrap\node_modules\spdx-expression-parse\parse.js133207492627369301 0
 79C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\cart3.svg133207492656753899 0
@@ -4284,7 +4281,6 @@
 77C:\xampp\htdocs\proyecto-bootstrap\node_modules\posthtml-render\dist\index.js133207492624362744 0
 77C:\xampp\htdocs\proyecto-bootstrap\node_modules\mdn-data\css\definitions.json133207492636108851 0
 90C:\xampp\htdocs\proyecto-bootstrap\node_modules\gifsicle\node_modules\is-stream\index.d.ts133207492629851179 0
-62C:\xampp\htdocs\proyecto-bootstrap\dist\index.c617b0bf.css.map133221464465311071 0
 73C:\xampp\htdocs\proyecto-bootstrap\node_modules\posthtml-parser\readme.md133207492633277352 0
 95C:\xampp\htdocs\proyecto-bootstrap\node_modules\pngquant-bin\node_modules\npm-run-path\index.js133207492624202816 0
 79C:\xampp\htdocs\proyecto-bootstrap\node_modules\caniuse-lite\data\regions\KP.js133207492657696432 0
@@ -4609,7 +4605,6 @@
 88C:\xampp\htdocs\proyecto-bootstrap\node_modules\parcel\node_modules\color-name\README.md133207492627882305 0
 94C:\xampp\htdocs\proyecto-bootstrap\node_modules\parcel\node_modules\color-convert\CHANGELOG.md133207492624202816 0
 85C:\xampp\htdocs\proyecto-bootstrap\node_modules\define-properties\.github\FUNDING.yml133207492635188918 0
-58C:\xampp\htdocs\proyecto-bootstrap\dist\index.dee82485.css133221464465131665 0
 80C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\google.svg133207492668400341 0
 68C:\xampp\htdocs\proyecto-bootstrap\node_modules\globalthis\README.md133207492638275356 0
 96C:\xampp\htdocs\proyecto-bootstrap\node_modules\parcel\node_modules\color-convert\conversions.js133207492626462444 0
@@ -6402,7 +6397,6 @@
 85C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\basket-fill.svg133207492651694928 0
 82C:\xampp\htdocs\proyecto-bootstrap\node_modules\caniuse-lite\data\features\spdy.js133207492662641233 0
 114C:\xampp\htdocs\proyecto-bootstrap\node_modules\imagemin-svgo\node_modules\css-tree\lib\syntax\pseudo\nth-child.js133207492647741526 0
-62C:\xampp\htdocs\proyecto-bootstrap\dist\equipo.cad13004.js.map133221464468287317 0
 119C:\xampp\htdocs\proyecto-bootstrap\node_modules\imagemin-svgo\node_modules\css-tree\lib\syntax\pseudo\nth-last-child.js133207492647821578 0
 121C:\xampp\htdocs\proyecto-bootstrap\node_modules\imagemin-svgo\node_modules\css-tree\lib\syntax\pseudo\nth-last-of-type.js133207492647901460 0
 109C:\xampp\htdocs\proyecto-bootstrap\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc133207492623429414 0
@@ -7594,7 +7588,6 @@
 77C:\xampp\htdocs\proyecto-bootstrap\node_modules\@parcel\cache\lib\IDBCache.js133207492632250178 0
 97C:\xampp\htdocs\proyecto-bootstrap\node_modules\decompress-targz\node_modules\file-type\readme.md133207492628202163 0
 77C:\xampp\htdocs\proyecto-bootstrap\node_modules\es-abstract\5\HourFromTime.js133207492657456537 0
-61C:\xampp\htdocs\proyecto-bootstrap\dist\index.74e50795.js.map133221464467131130 0
 87C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\badge-vr-fill.svg133207492650975197 0
 75C:\xampp\htdocs\proyecto-bootstrap\node_modules\es-abstract\5\InLeapYear.js133207492657776415 0
 85C:\xampp\htdocs\proyecto-bootstrap\node_modules\es-abstract\5\IsAccessorDescriptor.js133207492658256233 0
@@ -7696,7 +7689,6 @@
 83C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\newspaper.svg133207492672160693 0
 85C:\xampp\htdocs\proyecto-bootstrap\node_modules\es-abstract\2022\InstallErrorCause.js133207492657776415 0
 78C:\xampp\htdocs\proyecto-bootstrap\node_modules\chrome-trace-event\LICENSE.txt133207492633117425 0
-58C:\xampp\htdocs\proyecto-bootstrap\dist\index.ab0485ab.css133221464465131665 0
 86C:\xampp\htdocs\proyecto-bootstrap\node_modules\es-abstract\2022\InstanceofOperator.js133207492658016328 0
 76C:\xampp\htdocs\proyecto-bootstrap\node_modules\es-abstract\2019\ToUint32.js133207492672800504 0
 87C:\xampp\htdocs\proyecto-bootstrap\node_modules\es-abstract\2021\IsBigIntElementType.js133207492658416140 0
@@ -7859,7 +7851,6 @@
 83C:\xampp\htdocs\proyecto-bootstrap\node_modules\es-abstract\2022\BigInt\multiply.js133207492664480545 0
 84C:\xampp\htdocs\proyecto-bootstrap\node_modules\es-abstract\2022\BigInt\remainder.js133207492666880980 0
 84C:\xampp\htdocs\proyecto-bootstrap\node_modules\es-abstract\2022\BigInt\sameValue.js133207492667280809 0
-59C:\xampp\htdocs\proyecto-bootstrap\dist\maria.c9cb5e6a.jpeg133221464467061371 0
 97C:\xampp\htdocs\proyecto-bootstrap\node_modules\caniuse-lite\data\features\css-filter-function.js133207492651055174 0
 90C:\xampp\htdocs\proyecto-bootstrap\node_modules\@jridgewell\gen-mapping\src\gen-mapping.ts133207492635549069 0
 88C:\xampp\htdocs\proyecto-bootstrap\node_modules\es-abstract\2022\BigInt\sameValueZero.js133207492667520713 0
@@ -8375,7 +8366,6 @@
 80C:\xampp\htdocs\proyecto-bootstrap\node_modules\es-abstract\2017\RegExpCreate.js133207492666641064 0
 86C:\xampp\htdocs\proyecto-bootstrap\node_modules\es-abstract\2018\AdvanceStringIndex.js133207492644701931 0
 76C:\xampp\htdocs\proyecto-bootstrap\node_modules\css-select\lib\sort.d.ts.map133207492640561224 0
-60C:\xampp\htdocs\proyecto-bootstrap\dist\contacto.8365e784.js133221464468217549 0
 82C:\xampp\htdocs\proyecto-bootstrap\node_modules\es-abstract\2018\ArraySetLength.js133207492646101099 0
 86C:\xampp\htdocs\proyecto-bootstrap\node_modules\es-abstract\2018\AsyncIteratorClose.js133207492647976357 0
 95C:\xampp\htdocs\proyecto-bootstrap\node_modules\es-abstract\2018\CanonicalNumericIndexString.js133207492650614345 0
@@ -9589,7 +9579,6 @@
 86C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\bandaid-fill.svg133207492651534986 0
 80C:\xampp\htdocs\proyecto-bootstrap\node_modules\@parcel\utils\src\http-server.js133207492641225678 0
 97C:\xampp\htdocs\proyecto-bootstrap\node_modules\caniuse-lite\data\features\link-rel-preconnect.js133207492658016328 0
-58C:\xampp\htdocs\proyecto-bootstrap\dist\equipo.cad13004.js133221464468217549 0
 91C:\xampp\htdocs\proyecto-bootstrap\node_modules\caniuse-lite\data\features\localecompare.js133207492658096276 0
 83C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\cloud-fog.svg133207492659542016 0
 87C:\xampp\htdocs\proyecto-bootstrap\node_modules\caniuse-lite\data\features\maxlength.js133207492658256233 0
@@ -9780,7 +9769,6 @@
 75C:\xampp\htdocs\proyecto-bootstrap\node_modules\@lezer\common\dist\index.js133207492630091077 0
 83C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\align-top.svg133207492645021764 0
 81C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\android.svg133207492645381401 0
-61C:\xampp\htdocs\proyecto-bootstrap\dist\alberto.007b93fb.jpeg133221464467131130 0
 82C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\android2.svg133207492645461375 0
 87C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\app-indicator.svg133207492645541332 0
 79C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\apple.svg133207492645701272 0
@@ -9908,7 +9896,6 @@
 87C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\building-fill.svg133207492654973960 0
 85C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\building-up.svg133207492655053900 0
 82C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\building.svg133207492655053900 0
-50C:\xampp\htdocs\proyecto-bootstrap\html\index.html133221444780974531 0
 74C:\xampp\htdocs\proyecto-bootstrap\node_modules\@types\node\ts4.8\tty.d.ts133207492650374449 0
 87C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\c-square-fill.svg133207492655133870 0
 89C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\calculator-fill.svg133207492655213831 0
@@ -9997,7 +9984,6 @@
 85C:\xampp\htdocs\proyecto-bootstrap\node_modules\@parcel\utils\test\collection.test.js133207492635868962 0
 88C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\cc-square-fill.svg133207492656913826 0
 88C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\chat-dots-fill.svg133207492656976724 0
-70C:\xampp\htdocs\proyecto-bootstrap\dist\bootstrap-icons.d847e9f0.woff2133221464463825969 0
 83C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\chat-dots.svg133207492656976724 0
 83C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\chat-fill.svg133207492657056721 0
 89C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\chat-heart-fill.svg133207492657056721 0
@@ -10091,7 +10077,6 @@
 90C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\cloud-check-fill.svg133207492659382224 0
 76C:\xampp\htdocs\proyecto-bootstrap\node_modules\@parcel\packager-svg\LICENSE133207492622184588 0
 85C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\cloud-check.svg133207492659382224 0
-93C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\cloud-download-fill.svg133207492659462049 0
 88C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\cloud-download.svg133207492659462049 0
 65C:\xampp\htdocs\proyecto-bootstrap\node_modules\@parcel\utils\lib133207492647181783 1
 92C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\cloud-drizzle-fill.svg133207492659462049 0
@@ -10706,7 +10691,7 @@
 85C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\thermometer.svg133207492681760761 0
 85C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\person-down.svg133207492673760105 0
 92C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\person-exclamation.svg133207492673760105 0
-51C:\xampp\htdocs\proyecto-bootstrap\html\equipo.html133221445260110513 0
+51C:\xampp\htdocs\proyecto-bootstrap\html\equipo.html133221473214175017 0
 91C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\person-fill-check.svg133207492673840068 0
 90C:\xampp\htdocs\proyecto-bootstrap\node_modules\bootstrap-icons\icons\person-fill-dash.svg133207492673840068 0
 98C:\xampp\htdocs\proyecto-bootstrap\node_modules\@parcel\core\test\fixtures\invalid-source-not-file133207492651774888 1
@@ -11284,7 +11269,6 @@
 81C:\xampp\htdocs\proyecto-bootstrap\node_modules\bin-wrapper\node_modules\make-dir133207492627289331 1
 107C:\xampp\htdocs\proyecto-bootstrap\node_modules\@jridgewell\sourcemap-codec\dist\sourcemap-codec.umd.js.map133207492630570903 0
 85C:\xampp\htdocs\proyecto-bootstrap\node_modules\bin-wrapper\node_modules\p-cancelable133207492627289331 1
-62C:\xampp\htdocs\proyecto-bootstrap\dist\index.dee82485.css.map133221464465311071 0
 80C:\xampp\htdocs\proyecto-bootstrap\node_modules\bin-wrapper\node_modules\p-event133207492627289331 1
 98C:\xampp\htdocs\proyecto-bootstrap\node_modules\@parcel\utils\node_modules\supports-color\index.js133207492626142590 0
 77C:\xampp\htdocs\proyecto-bootstrap\node_modules\bin-wrapper\node_modules\pify133207492627289331 1
@@ -11535,7 +11519,7 @@
 89C:\xampp\htdocs\proyecto-bootstrap\node_modules\@swc\helpers\src\_array_like_to_array.mjs133207492648216261 0
 89C:\xampp\htdocs\proyecto-bootstrap\node_modules\@swc\helpers\src\_array_without_holes.mjs133207492648376194 0
 86C:\xampp\htdocs\proyecto-bootstrap\node_modules\@swc\helpers\src\_array_with_holes.mjs133207492648296224 0
-53C:\xampp\htdocs\proyecto-bootstrap\html\contacto.html133221445347806685 0
+53C:\xampp\htdocs\proyecto-bootstrap\html\contacto.html133221473118987737 0
 93C:\xampp\htdocs\proyecto-bootstrap\node_modules\@swc\helpers\src\_assert_this_initialized.mjs133207492648456156 0
 94C:\xampp\htdocs\proyecto-bootstrap\node_modules\@swc\helpers\src\_async_generator_delegate.mjs133207492648536140 0
 88C:\xampp\htdocs\proyecto-bootstrap\node_modules\@swc\helpers\src\_async_to_generator.mjs133207492648696072 0
@@ -12716,18 +12700,6 @@
 47C:\xampp\htdocs\proyecto-bootstrap\img\head.jpg133207489846432817 0
 58C:\xampp\htdocs\proyecto-bootstrap\img\equipo\alberto.jpeg133207489846179342 0
 58C:\xampp\htdocs\proyecto-bootstrap\img\equipo\esteban.jpeg133207489846272886 0
-69C:\xampp\htdocs\proyecto-bootstrap\dist\bootstrap-icons.1653e6b8.woff133221464463835938 0
-64C:\xampp\htdocs\proyecto-bootstrap\dist\contacto.8365e784.js.map133221464468277381 0
-53C:\xampp\htdocs\proyecto-bootstrap\dist\contacto.html133221464467330481 0
-59C:\xampp\htdocs\proyecto-bootstrap\dist\equipo.fe98da6b.css133221464465141636 0
-51C:\xampp\htdocs\proyecto-bootstrap\dist\equipo.html133221464465739659 0
-61C:\xampp\htdocs\proyecto-bootstrap\dist\esteban.0f4e7961.jpeg133221464468028176 0
-57C:\xampp\htdocs\proyecto-bootstrap\dist\head.9c747dfa.jpg133221464466881953 0
-56C:\xampp\htdocs\proyecto-bootstrap\dist\html.c41be126.js133221464467001564 0
-60C:\xampp\htdocs\proyecto-bootstrap\dist\html.c41be126.js.map133221464467131130 0
-50C:\xampp\htdocs\proyecto-bootstrap\dist\index.html133221464467310545 0
-64C:\xampp\htdocs\proyecto-bootstrap\dist\josecarlos.a81f91c8.jpeg133221464467988306 0
-65C:\xampp\htdocs\proyecto-bootstrap\dist\subtle-prism.c4a117e9.svg133221464463806081 0
 53C:\xampp\htdocs\proyecto-bootstrap\css\equipo-min.css133221444539247563 0
 60C:\xampp\htdocs\proyecto-bootstrap\capturas\dependencies.PNG133207489843853249 0
 57C:\xampp\htdocs\proyecto-bootstrap\capturas\gitignore.PNG133207489843939711 0

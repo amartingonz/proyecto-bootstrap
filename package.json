@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
-    "parcel:desarrollo": "parcel html/index.html",
-    "parcel:produccion": "parcel build html/index.html --public-url './'",
+    "parcel:desarrollo": "parcel index.html",
+    "parcel:produccion": "parcel build index.html",
     "limpieza": "rimraf dist .cache .cache-loader",
     "des": "npm-run-all limpieza parcel:desarrollo",
     "prod": "npm-run-all limpieza parcel:produccion"
